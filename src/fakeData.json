@@ -1,0 +1,141 @@
+[{
+    "id": 1,
+    "name": "iPhone",
+    "price": 193,
+    "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+    "category":"Phones"
+    },
+    {
+    "id": 2,
+    "name": "Samsung",
+    "price": 200,
+    "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+    "category":"Phones"
+    }, 
+    {
+    "id": 3,
+    "name": "Xiaomi",
+    "price": 169,
+    "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+    "category":"Phones"
+    }, 
+    {
+    "id": 4,
+    "name": "Huawei",
+    "price": 151,
+    "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+    "category":"Phones"
+    }, 
+    {
+    "id": 5,
+    "name": "HTC",
+    "price": 35,
+    "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+    "category":"Phones"
+    }, 
+    {
+    "id": 6,
+    "name": "iPhone",
+    "price": 52,
+    "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+    "category":"Phones"
+    }, 
+    {
+    "id": 7,
+    "name": "Oneplus",
+    "price": 173,
+    "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+    "category":"Phones"
+    }, 
+    {
+    "id": 8,
+    "name": "Sony",
+    "price": 178,
+    "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+    "category":"Phones"
+    }, 
+    {
+    "id": 9,
+    "name": "Asus",
+    "price": 27,
+    "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+    "category":"Phones"
+    }, 
+    {
+    "id": 10,
+    "name": "Nokia",
+    "price": 106,
+    "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+    "category":"Phones"
+    },
+    {
+      "id": 11,
+      "name": "Native Instruments",
+      "price": 193,
+      "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+      "category":"Headphones"
+      },
+      {
+      "id": 12,
+      "name": "Pioneer",
+      "price": 200,
+      "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+      "category":"Headphones"
+      }, 
+      {
+      "id": 13,
+      "name": "Gerber",
+      "price": 169,
+      "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+      "category":"Headphones"
+      }, 
+      {
+      "id": 14,
+      "name": "Bang and Olufsen",
+      "price": 151,
+      "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+      "category":"Headphones"
+      }, 
+      {
+      "id": 15,
+      "name": "Audio Technika",
+      "price": 35,
+      "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+      "category":"Headphones"
+      }, 
+      {
+      "id": 16,
+      "name": "Apple",
+      "price": 52,
+      "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+      "category":"Headphones"
+      }, 
+      {
+      "id": 17,
+      "name": "Samsung",
+      "price": 173,
+      "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+      "category":"Headphones"
+      }, 
+      {
+      "id": 18,
+      "name": "Beats by Dre",
+      "price": 178,
+      "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+      "category":"Headphones"
+      }, 
+      {
+      "id": 19,
+      "name": "Bose",
+      "price": 27,
+      "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+      "category":"Headphones"
+      }, 
+      {
+      "id": 20,
+      "name": "Sennheiser",
+      "price": 106,
+      "image": "https://i.imgur.com/QpZ9RE8.jpeg",
+      "category":"Headphones"
+      }
+]
